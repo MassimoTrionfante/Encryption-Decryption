@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1423306495 source:d:\max's custom music creation\roba intelligente di max\università massimo\1programmazione 1\progetto x esame\progetto\progetto 1\main.c
+
+1423239784 source:d:\max's custom music creation\roba intelligente di max\università massimo\1programmazione 1\progetto x esame\progetto\progetto 1\messaggio.c
+
+1423306093 source:d:\max's custom music creation\roba intelligente di max\università massimo\1programmazione 1\progetto x esame\progetto\progetto 1\cifratura.c
+
+1423306440 source:d:\max's custom music creation\roba intelligente di max\università massimo\1programmazione 1\progetto x esame\progetto\progetto 1\decifratura.c
+
+1530173138 source:c:\users\massimo\desktop\github folders\encrypting-decrypting\decifratura.c
+
+1530173247 source:c:\users\massimo\desktop\github folders\encrypting-decrypting\cifratura.c
+
+1530172713 source:c:\users\massimo\desktop\github folders\encrypting-decrypting\main.c
+	"header.h"
+
+1530173247 c:\users\massimo\desktop\github folders\encrypting-decrypting\header.h
+	<stdio.h>
+	<string.h>
+
