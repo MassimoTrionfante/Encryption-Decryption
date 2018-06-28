@@ -1,6 +1,9 @@
 # Encryption-Decryption
 This simple tool is the first program I ever did. It was made in 2015 as project for my first programming exam.
 
+# Quick test
+Simply run "Progetto 1.exe" inside the folder "bin/debug".
+
 # How it works
 The tool starts up asking for a word to encrypt. The logic of the encryption used is called "polyalphabetic cipher". Let's say we have a word to cypher and a key: if the n-th element of the key contains "B", then the n-th character of the word have to be increased (ASCII char-wise) by 1, if "C", then it has to be increased by 2, and so on. If the number used to increase the n-th letter exceeds the ASCII character "Z", then it'll loop back to "A".<br>
 In case the key is shorter than the word to encrypt, then the key gets repeated multiple times, until reaching the length of the word to cypher. For example, if the word is "MYWORD" and key is "ETC", the process will crypt using the key "ETCETC".<br>
